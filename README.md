@@ -1,2 +1,2 @@
 # AI-Assignment-MNIST-dataset-
-For the AI Assignment. Submitted by Saumya Gupta [14CO241]
+For the AI Assignment. Submitted by 14CO241
